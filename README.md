@@ -1,4 +1,4 @@
-# Task 5: Decision Trees and Random Forests 🌳🌲
+# Task 5: Decision Trees and Random Forests
 
 This task focuses on tree-based models for binary classification using the **Heart Disease dataset**. It includes training and visualizing decision trees, evaluating random forests, and interpreting feature importances.
 
@@ -22,4 +22,4 @@ This task focuses on tree-based models for binary classification using the **Hea
 
 <br>
 
-> 🗓️ Part of internship at Elevate Labs (Day 5 Task)
+> 🗓️ Part of internship at Elevate Labs
